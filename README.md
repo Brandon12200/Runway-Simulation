@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Sample Output](#author)
+- [Sample Output](#sample-output)
 - [Usage](#usage)
 - [Implementation Details](#implementation-details)
 - [Author](#author)
