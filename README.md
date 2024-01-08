@@ -38,7 +38,7 @@ The runway simulation involves the following components:
 
 ## Sample Output
 
-![Sample Output](runwaySimulationMain/runwaySimulation/sampleOutput.png "Runway Simulation Sample Output")
+![Sample Output](Runway-Simulation-main/runwaySimulation/sampleOutput.png "Runway Simulation Sample Output")
 
 ## Usage
 
