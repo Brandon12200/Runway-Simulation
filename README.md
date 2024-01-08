@@ -1,6 +1,5 @@
 # Runway Simulation
 
-# Contact for code
 
 ## Table of Contents
 
@@ -40,7 +39,7 @@ The runway simulation involves the following components:
 
 ## Sample Output
 
-![Sample Output](runwaySimulation/sampleOutput.png "Runway Simulation Sample Output")
+![Sample Output](runwaySimulation/runwaySimulation/sampleOutput.png "Runway Simulation Sample Output")
 
 ## Usage
 
